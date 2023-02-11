@@ -68,35 +68,39 @@ const generateQuote = function() {
         show:"Full Metal Alchemist Brotherhood"
     },
     {
-        quote: " It’s just pathetic to give up on something before you even give it a shot.",
+        quote: "Become strong not just for your own sake, but for your friends.",
         author: "Reiko Mikami",
-        show:"Another"
+        show:"BLEACH"
 
     },
     {
-        quote: " There is nothing shameful about being different from others. This is your character! Ann’s red hair is really beautiful, just like the color of red spider lilies in their full bloom. Red really suits you. You should have more confidence in yourself.",
-        author: "Vincent Phantomhive",
-        show:"Black Butler"
+        quote: "Arrogance destroys the footholds of victory",
+        author: "Byakuya Kuchiki",
+        show:"BLEACH"
 
     },
     {
-        quote: " Words are cheap. There’s no guarantee she won’t tell anyone. Humans lie without a second thought. Including me, of course.",
-        author: "Ciel Phantomhive ",
-        show:"Black Butler"
+        quote: " A man who raises his hands on a woman is trash. If I have to become trash in order to survive… It’ll be just like dying.",
+        author: "Renji Abarai ",
+        show:"BLEACH"
 
     },
     {
-        quote: " Moping around with sadness and sorrow… what will come of it? Even dead people can do that. However, I’ll live and stand on my own two legs. If we are going to die one day, wouldn’t it be better to have no regrets?",
-        author: "Ciel Phantomhive ",
-        show:"Black Butler"
+        quote: " We can’t waste time worrying about the what if’s.",
+        author: "Ichigo Kurosaki",
+        show:"BLEACH"
 
 
     },
     {
-        quote: " There’s nothing more deceiving than an obvious truth.",
-        author: "Ciel Phantomhive ",
-        show:"Black Butler"
-
+        quote: " I’m not fighting because I want to win, I’m fighting because I have to win.",
+        author: "Ichigo Kurosaki",
+        show:"BLEACH"
+    },
+    {
+        quote: " Don’t break anyone’s heart, they only have one. Break their bones, they have 206.",
+        author: "Ichigo Kurosaki",
+        show:"BLEACH"
     },
     {
         quote: "  The world isn’t something that is all planned out. It’s something you make yourself.",
@@ -106,14 +110,9 @@ const generateQuote = function() {
     {
         quote: "Dream your dream! Then, pursue the ideals to make that dream a reality, and someday you will achieve all that you dreamed of!",
         author: "N",
-        show:"pokemon"
+        show:"Pokemon"
     },
-    {
-        quote: "Battles aren’t supposed to be heroic affairs. They are not supposed to be fun or exciting, to us every battle is filled with despair, they are dark, horrifying, grizzly. We should fear warfare, avoid it always and whenever possible choose the path of peace.",
-        author: "Izuru Kira",
-        show:"Bleach"
-
-    },
+   
     {
         quote: "Sadness is just another wall that blocks you from moving on. I know it’s hard to get past it, but you got to break through.",
         author: "Gray Fullbuster",
@@ -123,17 +122,17 @@ const generateQuote = function() {
     {
         quote: "Normally, as people love and are loved, they feel happiness. When I am hated by people, that is when I feel happiness. And then I want to tear apart and inflict unimaginable harm to the things I love. But is that really all that strange, I wonder?",
         author: "Pariston Hill",
-        show:"HunterXhunter"
+        show:"HunterXHunter"
     },
     {
         quote: "It takes a mere second for treasure to turn to trash.",
         author: "Hisoka",
-        show:"HunterXhunter"
+        show:"HunterXHunter"
     },
     {
         quote: "You can’t ever win if you’re always on the defensive. To win, you have to attack!",
         author: "Light Yagami",
-        show:"Death note"
+        show:"Death Note"
 
     },
     {
@@ -143,17 +142,6 @@ const generateQuote = function() {
 
     },
     {
-        quote: "Books are not something that you just read words in. They’re also a tool to adjust your senses. When I’m not feeling well there are times that I can’t take in what I read. When that happens, I try to think about what could be hindering my reading. There are books that I can take in smoothly even when I’m not feeling well. I try to think why. It might be something like mental tuning. What’s important when you tune is the feeling of the paper that you’re touching with your fingers and the momentary stimulation your brain receives when you turn pages.",
-        author: "Makishima Shougo",
-        show:"Psycho Pass"
-
-    },
-    {
-        quote: "In order to measure a person’s worth you must do more than push them. The real way to test their worth is to give them power. When they gain the freedom to act outside the boundaries of law and ethics you can sometimes see their souls.",
-        author: "Makishima Shougo",
-        show:"Psycho Pass"
-    },
-    {
         quote: " When people are protecting something truly precious to them. They truly can become…as strong as they need to be!",
         author: "Haku",
         show:"Naruto"
@@ -161,13 +149,13 @@ const generateQuote = function() {
     {
         quote: "Any betrayal you can see is trivial, what is truly frightening and much more lethal, is the betrayal you cannot see.",
         author: "Sosuke Aizen",
-        show:"Bleach"
+        show:"BLEACH"
 
     },
     {
-        quote: "In this world, the weak are the sustenance of the strong. The strong live, the weak die.",
-        author: "Makoto Shishio",
-        show:"Rorouni Kenshin"
+        quote: " Even if no one believes in you, stick out your best and scream your defiance!",
+        author: "Rukia Kuchiki",
+        show:"BLEACH"
 
     },
     {
@@ -203,7 +191,7 @@ const generateQuote = function() {
     {
         quote: "I’ll leave tomorrow’s problems to tomorrow’s me.",
         author: "Saitama",
-        show:"One-Punch Man"
+        show:"ONE PUNCH MAN"
 
     },
     {
@@ -230,6 +218,72 @@ const generateQuote = function() {
 
     },
     {
+        quote: "People don’t fear god, fear itself is god!",
+        author: "Enel ",
+        show:"One Piece"
+
+    },
+    {
+        quote: "Miracles only happen to those who never give up",
+        author: "Emporio Ivankov ",
+        show:"One Piece"
+
+    },
+    {
+        quote: "You can’t bring back what you’ve lost, think about what you have now!",
+        author: "Jinbe",
+        show:"One Piece"
+
+    },
+    {
+        quote: "No one is born into this world to be alone",
+        author: "Jaguar D. Saul",
+        show:"One Piece"
+
+    },
+    {
+        quote: "If you don’t take risks, you can’t create a future.",
+        author: "Monkey D. Luffy",
+        show:"One Piece"
+
+    },
+    {
+        quote: "By experiencing both victory and defeat, running away and shedding tears, a man will become a man. It’s okay to cry, but you have to move on.",
+        author: "Shanks",
+        show:"One Piece"
+
+    },
+    {
+        quote: "Only those who have suffered long, can see the light within the shadows.",
+        author: "Roronoa Zoro",
+        show:"One Piece"
+
+    },
+    {
+        quote: "We have to live a life of no regrets.",
+        author: "Portgas D. Ace",
+        show:"One Piece"
+
+    },
+    {
+        quote: "Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form.",
+        author: "Silvers Rayleigh",
+        show:"One Piece"
+
+    },
+    {
+        quote: "Men who can’t wipe away the tears from a women’s eyes, aren’t real men.",
+        author: "Sanji Vinsmoke",
+        show:"One Piece"
+
+    },
+    {
+        quote: "The weak don’t get to decide anything, not even how they die.",
+        author: "Trafalgar  D. Water Law ",
+        show:"One Piece"
+
+    },
+    {
         quote: "Life is not a game of luck. If you wanna win, work hard.",
         author: "Sora",
         show:"No Game No Life"
@@ -238,7 +292,7 @@ const generateQuote = function() {
     {
         quote: "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain.",
         author: "Pain [Nagato]",
-        show:"(Naruto Shippuden)"
+        show:"Naruto Shippuden"
 
     },
     {
@@ -281,16 +335,218 @@ const generateQuote = function() {
         author: "Natsu Dragneel",
         show:"Fairy Tail"
     },
+    {
+        quote: " That’s just the way it is. Change is inevitable. Instead of resisting it, you’re better served simply going with the flow",
+        author: "Shunsui Kyouraku",
+        show:"BLEACH"
+    },
+    {
+        quote: " People are able to hold onto hope since death is that which cannot be seen.",
+        author: "Rukia Kuchiki",
+        show:"BLEACH"
+    },
+    {
+        quote: " It’s easier to crush a dream than realize one. Forming a bond is infinitely more difficult than breaking one.",
+        author: "Gin Ichimaru",
+        show:"BLEACH"
+    },
+    {
+        quote: "  Revenge Is Just The Path You Took To Escape Your Suffering.",
+        author: "Ichigo Kurosaki",
+        show:"BLEACH"
+    },
+    {
+        quote: "Hard work is worthless for those that don't believe in themselves.",
+        author: "Naruto Uzumaki",
+        show:"Naruto"
+    },
+    {
+        quote: "If you don’t share someone’s pain, you can never understand them.",
+        author: "Nagato",
+        show:"Naruto"
+    },
+    {
+        quote: "The concept of hope is nothing more than giving up. A word that holds no true meaning.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "Love is not necessary, power is the only true necessity.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "When a man learns to love, he must bear the risk of hatred.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "When a man learns to love, he must bear the risk of hatred.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material – you’re not a real man.",
+        author: "Jiraiya",
+        show:"Naruto"
+    },
+    {
+        quote: "Power is not will, it is the phenomenon of physically making things happen.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "A place where someone still thinks about you is a place you can call home.",
+        author: "Jiraiya",
+        show:"Naruto"
+    },
+    {
+        quote: "If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.",
+        author: "Naruto Uzumaki",
+        show:"Naruto"
+    },
+    {
+        quote: "Once you question your own belief, it’s over.",
+        author: "Naruto Uzumaki",
+        show:"Naruto"
+    },
+    {
+        quote: "While you’re alive, you need a reason for your existence. Being unable to find one is the same as being dead.",
+        author: "Naruto Uzumaki",
+        show:"Naruto"
+    },
+    {
+        quote: "It’s human nature not to realize the true value of something, unless they lose it.",
+        author: "Orochimaru.",
+        show:"Naruto"
+    },
+    {
+        quote: "Either people change or they die before they do. It’s one or the other.",
+        author: "Orochimaru.",
+        show:"Naruto"
+    },
+    {
+        quote: "Either people change or they die before they do. It’s one or the other.",
+        author: "Orochimaru.",
+        show:"Naruto"
+    },
+    {
+        quote: "It’s not the face that makes someone a monster, it’s the choices they make with their lives.",
+        author: "Naruto Uzumaki",
+        show:"Naruto"
+    },
+    {
+        quote: "The longer you live… The more you realize that reality is just made of pain, suffering and emptiness.",
+        author: "Madara Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "The moment people come to know love, they run the risk of carrying hate.",
+        author: "Obito Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "I have long since closed my eyes… My only goal is in the darkness.",
+        author: "Sasuke Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "Even the strongest of opponents always has a weakness.",
+        author: "Itachi Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "If love is just a word, then why does it hurt so much if you realize it isn’t there?",
+        author: "Gaara",
+        show:"Naruto"
+    },
+    {
+        quote: "A dropout will beat a genius through hard work",
+        author: "Rock-Lee",
+        show:"Naruto"
+    },
+    {
+        quote: "People’s lives don’t end when they die. It ends when they lose faith.",
+        author: "Itachi Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "The ones who aren’t able to acknowledge their own selves are bound to fail.",
+        author: "Itachi Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "Those who forgive themselves, and are able to accept their true nature… They are the strong ones!",
+        author: "Itachi Uchiha",
+        show:"Naruto"
+    },
+    {
+        quote: "In the ninja world, those who don’t follow the rules are trash. But, those who abandon their friends are even worse than trash.",
+        author: "Obito Uchiha",
+        show:"Naruto"
+    },
+
+
 ];
 
-console.log(quotes[3].quote);
+
 
     let arrayIndex = Math.floor(Math.random() * quotes.length);
-    document.getElementById("quote").innerHTML = quotes[arrayIndex].quote;
-    document.getElementById("author").innerHTML = quotes[arrayIndex].author;
-    document.getElementById("anime").innerHTML = quotes[arrayIndex].show;
+    document.getElementById("quote").innerHTML = '" ' + quotes[arrayIndex].quote + ' "';
+    document.getElementById("author").innerHTML = '~ ' + quotes[arrayIndex].author + ' ~';
 
+    let animeInnerHTML = quotes[arrayIndex].show;
+    let animeElement = document.getElementById("anime");
+    if (quotes[arrayIndex].show === "One Piece") {
+        animeElement.style.fontFamily = "One-Piece, sans-serif";
+        animeElement.style.fontSize = "30px";
+    } 
+    else if (quotes[arrayIndex].show === "Attack on Titan") {
+        animeElement.style.fontFamily = "AOT, sans-serif";
+    } 
+    else if (quotes[arrayIndex].show === "Black Clover") {
+        animeElement.style.fontFamily = "Black-Clover, sans-serif";
+    } 
+    else if (quotes[arrayIndex].show === "BLEACH") {
+        animeElement.style.fontFamily = "Bleach, sans-serif";
+    } 
+    else if (quotes[arrayIndex].show === "Avatar") {
+        animeElement.style.fontFamily = "Avatar, sans-serif";
+    }  
+    else if (quotes[arrayIndex].show === "Death Note") {
+        animeElement.style.fontFamily = "Death-Note, sans-serif";
+    }  
+    else if (quotes[arrayIndex].show === "Fairy Tail") {
+        animeElement.style.fontFamily = "Fairy-Tail, sans-serif";
+    }     
+    else if (quotes[arrayIndex].show === "HunterXHunter") {
+        animeElement.style.fontFamily = "HXH, sans-serif";
+    }   
+    else if (quotes[arrayIndex].show === "Jujutsu Kaisen") {
+        animeElement.style.fontFamily = "Jujutsu-Kaisen, sans-serif";
+    }     
+    else if (quotes[arrayIndex].show === "My Hero Academia") {
+        animeElement.style.fontFamily = "MHA, sans-serif";
+    }  
+    else if (quotes[arrayIndex].show === "Naruto" || quotes[arrayIndex].show === "Naruto Shippuden" ) {
+        animeElement.style.fontFamily = "Naruto, sans-serif";
+    }   
+    else if (quotes[arrayIndex].show === "Pokemon") {
+        animeElement.style.fontFamily = "Pokemon-Solid, sans-serif";
+    }    
+    else if (quotes[arrayIndex].show === "Dragon Ball Z") {
+        animeElement.style.fontFamily = "Saiyan-Sans, sans-serif";
+    }     
+    else if (quotes[arrayIndex].show === "Tokyo Ghoul") {
+        animeElement.style.fontFamily = "TG, sans-serif";
+    } 
+    else {
+        animeElement.style.fontFamily = "impact, sans-serif";
+    }
+        animeElement.innerHTML = animeInnerHTML;
 }
+
+
 window.onload = function() {
     generateQuote();
     document.getElementById("btn").addEventListener('click', generateQuote);
