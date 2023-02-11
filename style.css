@@ -1,3 +1,93 @@
+@font-face {
+    font-family: "Avatar" ;
+    src: url("./fonts/Avatar-Airbender.ttf");
+}
+
+@font-face {
+    font-family: "Bleach";
+    src: url("./fonts/FontBleach.ttf");
+}
+
+@font-face {
+    font-family: "Black-Clover";
+    src: url("./fonts/BlackCloverFont.ttf");
+}
+
+@font-face {
+    font-family: "AOT";
+    src: url("./fonts/AOT.ttf");
+}
+
+@font-face {
+    font-family: "Fairy-Tail";
+    src: url("./fonts/FT.TTF");
+}
+
+@font-face {
+    font-family: "MHA";
+    src: url("./fonts/MHA.otf");
+}
+
+@font-face {
+    font-family: "HXH";
+    src: url("./fonts/HXH.ttf");
+}
+
+
+@font-face {
+    font-family: "Death-Note";
+    src: url("./fonts/Death-Note.ttf");
+}
+
+@font-face {
+    font-family: "Jujutsu-Kaisen";
+    src: url("./fonts/Jujutsu-Kaisen.ttf");
+}
+
+@font-face {
+    font-family: "Naruto";
+    src: url("./fonts/njnaruto.ttf");
+}
+
+@font-face {
+    font-family: "One-Piece";
+    src: url("./fonts/OnePiece-zAqL.ttf");
+}
+
+@font-face {
+    font-family: "Pokemon-Hollow";
+    src: url("./fonts/Pokemon-Hollow.ttf");
+}
+
+@font-face {
+    font-family: "Pokemon-Solid";
+    src: url("./fonts/Pokemon-Solid.ttf");
+}
+
+@font-face {
+    font-family: "Saiyan-Sans";
+    src: url("./fonts/Saiyan-Sans.ttf");
+}
+
+@font-face {
+    font-family: "Saiyan-Sans-Left";
+    src: url("./fonts/Saiyan-Sans-Left-Oblique.ttf");
+}
+
+@font-face {
+    font-family: "Saiyan-Sans-Right";
+    src: url("./fonts/Saiyan-Sans-Right-Oblique.ttf");
+}
+
+@font-face {
+    font-family: "TG";
+    src: url("./fonts/TG.TTF");
+}
+
+
+
+
+
 @import url('https://fonts.cdnfonts.com/css/futura-pt');
 
 * {
